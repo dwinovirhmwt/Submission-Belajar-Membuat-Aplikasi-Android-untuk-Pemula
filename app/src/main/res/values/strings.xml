@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Daftar Buku</string>
+
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string name="release">Rilis</string>
+    <string name="publisher">Penerbit</string>
+
+    <string name="book_title">Judul Buku</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_title">
+        <item>Bumi Manusia</item>
+        <item>Cantik itu Luka</item>
+        <item>Supernova: Ksatria, Puteri, dan Bintang Jatuh</item>
+        <item>Laskar Pelangi</item>
+        <item>Laut Bercerita</item>
+        <item>Negeri 5 Menara</item>
+        <item>Pengakuan Pariyem</item>
+        <item>Perahu Kertas</item>
+        <item>Pulang</item>
+        <item>Tentang Kamu</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Novel ini merupakan buku pertama dalam Tetralogi Buru yang ditulis oleh Pramoedya Ananta Toer. Ini mengisahkan perjalanan Minke, seorang priyayi yang menghadapi konflik sosial dan politik di era kolonial Hindia Belanda.\n\nKutipan :\nJangan sebut aku perempuan sejati jika hidup hanya berkalang lelaki. Tapi bukan berarti aku tidak butuh lelaki untuk aku cintai. (Nyai Ontosoroh)</item>
+        <item>Novel ini adalah karya Eka Kurniawan yang mengisahkan tentang kisah dua saudara perempuan, yang satu cantik dan yang lain cacat, dan perjalanan hidup mereka melalui berbagai tragedi sejarah Indonesia.\n\nKutipan :\nKecemasan datang dari ketidaktahuan (Eka Kurniawan, Beauty Is a Wound)</item>
+        <item>Novel ini adalah novel karya Dee Lestari yang mengisahkan kisah tentang perjalanan seorang seniman bernama Rana Harun Al Rasyid dan kisah cintanya dengan Angel. Dalam kisah ini, mereka menjelajahi kehidupan yang penuh dengan misteri dan pertanyaan tentang takdir. Novel ini menggali tema-tema seperti seni, budaya, dan identitas.\n\nKutipan :\nBerhenti memilah antara apa yang diinginkan dan tidak, lalu stagnasi hanya karena anda berkeras atas sesuatu yang sebenarnya harus berubah. Berhenti juga menilai baik buruk dari apapun. Bahkan untuk itu anda hidup. Anda adalah pengamat dan penikmat. Bukan Hakim,</item>
+        <item>Novel ini adalah karya Andrea Hirata yang mengisahkan perjuangan sekelompok anak muda di Pulau Belitongmengisahkan perjuangan sekelompok anak-anak di Belitong dalam mendapatkan pendidikan berkualitas di tengah keterbatasan sumber daya. Mereka membentuk Laskar Pelangi untuk meraih mimpi mereka. Cerita ini mengangkat tema persahabatan, semangat pantang menyerah, dan keinginan untuk meraih impian, serta mengeksplorasi realitas sosial di Indonesia.\n\nKutipan :\nDan dengan kepercayaan diri ternyata siapapun dapat membuat prestasi yang mencengangkan.</item>
+        <item>Novel ini merupakan novel karya Leila S. Chudori yang menceritakan tentang perjalanan politik di Indonesia. Cerita ini melibatkan tokoh-tokoh yang terlibat dalam peristiwa politik di Indonesia pada tahun 1965 dan pasca-G30S/PKI. Mereka adalah jurnalis, seniman, dan aktivis yang hidup di tengah-tengah ketidakpastian politik. Melalui kisah-kisah mereka, novel ini menggambarkan bagaimana perubahan politik mempengaruhi kehidupan pribadi dan profesional mereka.\n\nKutipan :\nLaut itu, Asmara, tak hanya terdiri dari ikan cantik dan kuda laut, tetapi juga pada masanya ada badai dan ombak besar yang hanya bisa dijinakkan oleh tembang merdu para nelayan.</item>
+        <item>Novel ini merupakan novel karya Ahmad Fuadi yang menceritakan perjalanan seorang pemuda Alif, seorang santri yang datang dari pedalaman untuk mengejar impian belajar di pesantren terkenal di Jawa Barat. Melalui perjuangannya, Alif belajar tentang persahabatan, keberanian, dan nilai-nilai agama. Novel ini menggambarkan perjalanan seorang pemuda mencari ilmu dan identitasnya di negeri yang jauh dari rumahnya.\n\nKutipan :\nJangan berharap dunia yang berubah, tapi diri kita lah yang harus berubah. Ingat anak-anakku, Allah berfirman, Dia tidak akan mengubah nasib sebuah kaum, sampai kaum itu sendirilah yang melakukan perubahan.</item>
+        <item>Novel ini adalah karya Pramoedya Ananta Toer yang menggambarkan kehidupan seorang perempuan Jawa di bawah budaya patriarki, seorang perempuan Jawa di masa kolonial, yang mencatat perasaan dan pengalamannya dalam jurnal. Cerita ini menyoroti perjuangan Pariyem dalam menghadapi norma sosial dan ekonomi yang membatasi perannya sebagai perempuan.\n\nKutipan :\nLha iya, orang Jawa itu\nKalau ditaling\ndan ditarung\nKalau dipepet\ndan dilelet\nKalau dibului\ndan dicakra\nKalau diwignyan\ndan dipengkal\nDia akan bebunyi\ndia akan hidup\nTapi kalau dia dipangku\ndia akan mati kutu.</item>
+        <item>Novel ini adalah novel karya Dewi Lestari yang menceritakan kisah dua remaja, Keenan dan Kugy, yang menghadapi cobaan hidup, persahabatan, dan cinta saat mereka mengejar impian mereka. Kugy, seorang penulis, dan Keenan, seorang fotografer, berjuang untuk menghadapi masa lalu dan meraih mimpi mereka sambil menjalani kisah romantis yang penuh warna.\n\nKutipan :\nTanpa kekosongan, siapa pun tidak akan bisa memulai sesuatu.</item>
+        <item>Novel ini merupakan novel karya Tere Liye mengisahkan seorang jurnalis bernama Dimas Suryo yang mencoba mengungkap rahasia keluarganya yang terlibat dalam peristiwa 1965 di Indonesia. Dia adalah seorang prajurit dalam pasukan Indonesia yang dikirim ke Korea Selatan selama Perang Korea. Novel ini menceritakan tentang perjuangan dan pengorbanan dalam masa perang serta kisah cintanya yang terjalin di tengah konflik. Setelah perang berakhir, Jejak Waktu berjuang untuk kembali pulang ke Indonesia dan menemukan cinta sejatinya. Novel ini memadukan unsur sejarah, cinta, dan perjalanan pribadi yang mengharukan.\n\nKutipan :\nKau harus mengalahkan banyak hal. Bukan musuh-musuhmu, tapi diri sendiri.</item>
+        <item>Novel ini merupakan novel karya Tere Liyem enceritakan kisah cinta antara Ilham dan Arini yang bermula dari masa sekolah hingga dewasa. Novel ini menggambarkan perjalanan cinta yang penuh liku-liku. Cerita ini memaparkan perjuangan, perasaan, dan pertemuan tak terduga mereka yang mengubah hidup mereka secara mendalam.\n\nKutipan :\nDia tetaplah wanita biasa. Saat orang melihatnya begitu tegar menghadapi apapun, orang-orang tidak tahu seberapa besar perjuangannya untuk membujuk dirinya sendiri sabar, membujuk dirinya untuk melepaskan, melupakan, dan semua hal yang ringan dikatakan, tapi berat dilakukan.</item>
+    </string-array>
+
+    <integer-array name="data_book">
+        <item>@drawable/bumi_manusia</item>
+        <item>@drawable/cantik_itu_luka</item>
+        <item>@drawable/supernova</item>
+        <item>@drawable/laskar_pelangi</item>
+        <item>@drawable/laut_bercerita</item>
+        <item>@drawable/negeri_5_menara</item>
+        <item>@drawable/pengakuan_pariyem</item>
+        <item>@drawable/perahu_kertas</item>
+        <item>@drawable/pulang</item>
+        <item>@drawable/tentang_kamu</item>
+    </integer-array>
+
+    <string-array name="data_publisher">
+        <item>Hasta Mitra</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Bentang Pustaka</item>
+        <item>Bentang Pustaka</item>
+        <item>Kepustakaan Populer Gramedia (KPG)</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Pustaka Jaya</item>
+        <item>Bentang Pustaka</item>
+        <item>Kepustakaan Populer Gramedia (KPG)</item>
+        <item>Gramedia Pustaka Utama</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>Tahun Rilis: 1980</item>
+        <item>Tahun Rilis: 2002</item>
+        <item>Tahun Rilis: 2001</item>
+        <item>Tahun Rilis: 2005</item>
+        <item>Tahun Rilis: 2004</item>
+        <item>Tahun Rilis: 2009</item>
+        <item>Tahun Rilis: 1981</item>
+        <item>Tahun Rilis: 2005</item>
+        <item>Tahun Rilis: 2012</item>
+        <item>Tahun Rilis: 2010</item>
+    </string-array>
+
+</resources>
